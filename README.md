@@ -1,7 +1,7 @@
 # -ara0097-gc-git-grupo
 Integrantes
-Bernardo Rocha Costa - 202503851794
 
+Bernardo Rocha Costa - 202503851794
 
 Enunciado da Atividade
 ARA0097 – Engenharia de Software Atividade Prática – Git &amp; GitHub: Repositório do Grupo + Commit Individual Gerenciamento de Configuração e Controle de Versão (Git e GitHub)
