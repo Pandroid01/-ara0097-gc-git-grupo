@@ -1,7 +1,7 @@
-# -ara0097-gc-git-grupo
-Integrantes
-
-Bernardo Rocha Costa - 202503851794
+#-ara0097-gc-git-grupo
+  INTEGRANTES
+- Bernardo Rocha Costa - 202503851794
+- Douglas Silva Neponuceno(202602341085)
 
 Enunciado da Atividade
 ARA0097 – Engenharia de Software Atividade Prática – Git &amp; GitHub: Repositório do Grupo + Commit Individual Gerenciamento de Configuração e Controle de Versão (Git e GitHub)
@@ -58,7 +58,6 @@ git push -u origin main
 ## Objetivo
 Descreva brevemente o propósito do projeto.
 ## Integrantes
-- Douglas Silva Neponuceno(202602341085)
 - Nome Completo (Matrícula)
 ## Como executar
 1. Pré-requisitos
