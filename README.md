@@ -58,7 +58,7 @@ git push -u origin main
 ## Objetivo
 Descreva brevemente o propósito do projeto.
 ## Integrantes
-- Douglas Silva Neponuceno (202602341085)
+- Douglas Silva Neponuceno(202602341085)
 - Nome Completo (Matrícula)
 ## Como executar
 1. Pré-requisitos
